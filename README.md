@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:marcin.golonka21@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Golonka-Ma)
 
-## 💻 Software Engineer | Full-Stack Developer | Transportation SaaS Specialist
+## 💻 Software Engineer | Full-Stack Developer
 
 > *"The best way to predict the future is to invent it" - Alan Kay*
 
