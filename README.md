@@ -8,7 +8,7 @@
 
 > *"The best way to predict the future is to invent it" - Alan Kay*
 
-I'm a Software Engineer with a passion for building scalable, high-performance applications that solve real-world problems. Computer Science graduate from Akademia Tarnowska with a specialization in Software Engineering. Currently focused on developing innovative SaaS solutions for the transportation and logistics industry.
+I'm a Software Engineer with a passion for building scalable, high-performance applications that solve real-world problems. Computer Science graduate from Akademia Tarnowska with a specialization in Software Engineering. Currently focused on developing innovative SaaS solutions.
 
 ## 🚀 What I'm Working On
 
